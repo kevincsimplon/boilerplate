@@ -1,0 +1,138 @@
+html, body{
+margin: 0;
+padding: 0;
+}
+header{
+
+}
+ul{
+  list-style: none;
+}
+
+/* titre*/
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+main{
+
+}
+
+
+footer{
+  background-color: green;
+}
+li a{
+  color: white;
+}
+a:hover, a:focus {
+    color: white;
+    text-decoration: none;
+}
+.center{
+  text-align: center;
+}
+
+/*header */
+.logo {
+  width: 20%;
+  line-height: 10px;
+  /*margin-top: 1em;*/
+}
+.align{
+display: inline-block;
+}
+.fond-nav{
+  background-image: url("../img/.jpg");
+  background-repeat:no-repeat;
+  background-color: blue;
+}
+.btn-small{
+ padding-top: 2em;
+ font-family: monospace;
+ font-size: 16px;
+}
+
+.marg-nav{
+margin-left: -1em;
+}
+
+
+/* Partis 3 bloc*/
+
+.block-marg-top{
+  margin-top: 4em;
+}
+
+.rond{
+  border: 2px solid white;
+  border-radius: 50%;
+  padding: 1em;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+
+}
+
+.block-ctr{
+line-height: 22px;
+color: #FFFFFF;
+text-align: center;
+font-size: 13px;
+ }
+/*dernier block */
+
+
+/*color */
+.rouge{
+
+}
+
+.noir{
+
+}
+
+.bleu{
+
+}
+.bleu-light{
+
+}
+.orange{
+background-color: #FF5E37;
+height: auto;
+}
+
+.violet{
+
+}
+
+.jaune{
+color: #DAA520
+}
+
+.gris{
+
+}
+
+.blanc{
+  color: white;
+}
+
+.vert{
+
+}
+.display{
+  display: inline-block;
+}
+.displayb{
+  display: block;
+}
